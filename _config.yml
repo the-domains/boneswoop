@@ -1,0 +1,14 @@
+layout_spectrum: 0.9938564286567271
+typography_spectrum: 0.2935105103533715
+color:
+  brandStrength: 0.12904973863624036
+  lightness: 0.7364899863023311
+  saturation: 0.782758379355073
+  rhythmicContrast: 0.10147740948013961
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: BoneSwoop
