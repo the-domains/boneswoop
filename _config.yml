@@ -1,4 +1,3 @@
-layout_spectrum: 0.9938564286567271
 typography_spectrum: 0.2935105103533715
 color:
   brandStrength: 0.12904973863624036
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9938564286567271
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e78d6813-b996-4626-a2ad-31917ae0e09c.png
 name: BoneSwoop
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e42bce08-20ba-411d-a9a6-a1628beec6f9.png
